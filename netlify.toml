@@ -9,3 +9,39 @@
   to = "/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/hr"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/hr/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sr"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sr/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ar"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ar/*"
+  to = "/"
+  status = 301
+  force = true
