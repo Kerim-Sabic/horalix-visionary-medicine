@@ -56,9 +56,6 @@ const Index = () => {
         <meta name="geo.region" content="BA" />
         <meta name="geo.placename" content="Bosnia and Herzegovina" />
         <link rel="canonical" href="https://horalix.com" />
-        <link rel="alternate" hrefLang="bs" href="https://horalix.com/bs" />
-        <link rel="alternate" hrefLang="hr" href="https://horalix.com/hr" />
-        <link rel="alternate" hrefLang="sr" href="https://horalix.com/sr" />
         
         {/* Schema.org structured data for better SEO */}
         <script type="application/ld+json">
